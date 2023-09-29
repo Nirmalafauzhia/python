@@ -1,11 +1,37 @@
 # For - Else
-• The else function after the for function takes precedence over search adventures - to provide a program exit when the search is not specified
+• The else function after the for function takes precedence over search adventures - to provide a program exit when the search is not specified.
 # Break
-•
+• Break is a statement used to stop (break) a for or while loop.
+
+• In general, the break function is usually used in loops, a loop will be stopped at the start of the iteration.
+
+• If the break function is in a nested loop, the loop is stopped only in the nested loop, the parent loop continues to run.
+
+• If the break function is outside the loop, the script file will be stopped directly at the end of the script file or stop the script file in the middle of execution.
+# Continue
+• In Python, the continue statement is used inside loops such as for or while loops to skip over the current iteration of the loop and move on to the next iteration. 
+
+• It can only be used • inside a loop (for loop or while loop) and is usually accompanied by a conditional statement.
+
+When the continue statement is executed within a loop, the code inside the loop will immediately stop executing for the current iteration, and the loop will jump to the next iteration.
 # While
-•
+• While loop is a loop that is indefinite, aka uncertain, or even unlimited.
+
+• While keyword, we have to fill in this.
+
+• <condition> : this can be a boolean variable or a logical expression.
+
+• And the last one is a block (or set of lines) of code that will repeat the condition being met.
 # While - For
-•
+• The Python while else loop is an extension of the while loop with an else block that executes when the while's condition is no longer true.
+
+• The 'while' keyword starts the loop, followed by the condition that determines whether the loop should continue executing.
+
+• A colon (:) follows the condition, indicating the beginning of the while block.
+
+• Code to be executed when the condition is true is indented under the while block.
+
+• The 'else' keyword, followed by another colon (:), starts the else block. This block will execute once the while condition becomes false. The else block is optional.
 # List Comprehension (Create a list with In Line Loops and If)
 • There are times when we need to create a new list from the previous list operation.
 
