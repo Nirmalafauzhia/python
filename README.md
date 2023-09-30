@@ -22,7 +22,7 @@ When the continue statement is executed within a loop, the code inside the loop 
 • <condition> : this can be a boolean variable or a logical expression.
 
 • And the last one is a block (or set of lines) of code that will repeat the condition being met.
-# While - For
+# While - Else
 • The Python while else loop is an extension of the while loop with an else block that executes when the while's condition is no longer true.
 
 • The 'while' keyword starts the loop, followed by the condition that determines whether the loop should continue executing.
