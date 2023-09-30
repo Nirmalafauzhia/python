@@ -40,7 +40,7 @@ When the continue statement is executed within a loop, the code inside the loop 
 • The underscore includes valid variable equations.
 
 • In general "_" is usually used as a throwaway variable (unimportant variable).
-# Function (Definition, Calling, and Return Function)
+# Function - Definition, Calling, and Return Function
 Function
 
 • In mathematics, a function is a process that relates between an input and an output.
