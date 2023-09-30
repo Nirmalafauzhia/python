@@ -1,3 +1,4 @@
+# Python2
 # For - Else
 • The else function after the for function takes precedence over search adventures - to provide a program exit when the search is not specified.
 # Break
